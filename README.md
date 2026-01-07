@@ -15,3 +15,36 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+⚙️ My Favorite Tools & Technologies
+
+
+HTML5	
+CSS3	
+JavaScript	
+TypeScript	
+React	
+Next.js	
+Vite	
+TailwindCSS
+
+Bootstrap	
+MUI	
+GSAP	
+Leaflet	
+Node.js	
+NestJS	
+MongoDB	
+PostgreSQL
+
+Git	
+GitHub	
+Netlify	
+AWS S3	
+npm	
+Prisma	
+Postman	
+Docker
+
+Python	
+Dart	
+Flutter
